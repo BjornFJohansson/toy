@@ -8,4 +8,4 @@
 | Francisco Lopes da Cunha      | pg48479 |              |
 | Helder José Freitas Porto     | pg59513 |qualquer coisa|
 | Iara Luísa Silva Delgado      | pg62847 |              |
-| Jorge Moutinho                | ?       |              |
+| Jorge Moutinho                | id12129 |   sim        |
