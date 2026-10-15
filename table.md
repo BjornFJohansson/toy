@@ -1,6 +1,6 @@
 | Name                          | Mec     | Pull request |
 |-------------------------------|---------|--------------|
-| Afonso Filipe Araújo Costa    | pg62842 |              |
+| Afonso Filipe Araújo Costa    | pg62842 |fahh aura+ego |
 | Ana Beatriz Dias de Sousa     | pg62843 |              |
 | Duarte José Silva Fernandes   | pg62830 |              |
 | Francisco Lopes da Cunha      | pg48479 |              |
